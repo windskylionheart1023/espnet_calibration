@@ -109,8 +109,3 @@ tools/Miniconda3-latest-*.sh
 *
 !espnet/
 !espnet2
-!egs2/calibration/
-egs2/calibration/asr1/*.job
-egs2/calibration/asr1/*.sh
-egs2/calibration/asr1/condor/
-egs2/calibration/asr1/conf/
