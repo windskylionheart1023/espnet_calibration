@@ -1,3 +1,12 @@
+# personalized
+*
+!.gitignore
+!espnet/
+!espnet/**
+!espnet2/
+!espnet2/**
+*.code-workspace
+
 # general
 *~
 *.pyc
@@ -103,10 +112,3 @@ tools/ffmpeg-*-static
 tools/ffmpeg-release
 tools/ffmpeg-release-*.tar.xz
 tools/Miniconda3-latest-*.sh
-
-# personalized
-*
-!.gitignore
-!espnet/
-!espnet2/
-*.code-workspace
